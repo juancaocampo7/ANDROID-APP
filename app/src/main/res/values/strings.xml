@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AppInventory</string>
+    <string name="email">Email</string>
+    <string name="name">Name</string>
+    <string name="password">Password</string>
+    <string name="number">Document</string>
+    <string name="product_reference">Product Reference</string>
+    <string name="product_identification">Product identification</string>
+</resources>
